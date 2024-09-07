@@ -4,5 +4,6 @@
     "project_description": "an app for making the Factory",
     "creation_time": "2024-09-03 09:11:03.991315",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant color scheme dominated by shades of pink and purple, with a surreal, otherworldly style showcasing an alien landscape under a starry sky with celestial bodies. The use of neon lighting and reflective surfaces adds a futuristic and dream-like quality."
 }
